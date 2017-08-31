@@ -1,0 +1,120 @@
+body {
+	background-image: url("../images/brickwall_@2X.png");
+}
+
+.divOne {
+	background-color: White;
+	height: 80px;
+}
+
+.divTwo {
+	background-color: #4aaaa5;
+	border: solid 1px Gray;
+	height: 80px;
+	font-size: 30px;
+	color: White;
+	text-align: center;
+	line-height: 75px;
+}
+
+.divThree {
+	height: 80px;
+	background-color: White;
+}
+
+.divFour {
+	height: 80px;
+	background-color: White;
+}
+
+
+.myNavBar {
+	background-color: White;
+
+}
+
+.myNavBar .myNavBarMenu li a {
+	color: Gray;
+	background-color: White;
+    font-size: 20px;
+    color: #777777;
+	font-family: "Georgia", "Times", "Times New Roman", "serif"; 
+	margin-top: 15px;
+}
+
+.divDivider {
+	height: 35px;
+ }
+
+ .divMainSection {
+	background-color: #ffffff;
+	border: dotted 1px #cccccc;
+	height: 600px;
+	overflow: scroll;
+}
+
+
+.divMainSection	 h1 {
+	color: #4aaaa5;
+	font-size: 30px;
+	font-family: "Georgia", "Times", "Times New Roman", "serif";  
+	border-bottom: dotted 1px Gray;
+	padding-top: 10px;
+	padding-bottom: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+
+.divMainSection img {
+	width: 300px;
+	height: 300px; 
+	border: dotted 1px #dddddd;
+	float: left;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-top: 25px;
+}
+
+.divMainSection p {
+	font-size: 16px;
+	font-family: "Arial", "Helvetica Neue", "Helvetica", "sans-serif";
+	color: #777777;
+	
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-top: 25px;
+	overflow: scroll;
+}
+
+
+.divSideBar {
+	height: 200px;
+	background-color: #ffffff;
+	border: dotted 1px #cccccc;
+
+}
+
+.divSideBar h2 {
+	color: #4aaaa5;
+	font-family: "Georgia", "Times", "Times New Roman", "serif";  
+	font-size: 25px;
+	text-align: center;
+	margin-top: 25px;
+	padding-bottom: 1px;
+}
+
+
+
+.divFooter1 {
+	background-color: #4aaaa5;
+	height: 10px;
+}
+
+.divFooter2 {
+	background-color: #666666;
+	height: 80px;
+	text-align: center;
+	padding-top: 25px;
+	color: #AEB6BF;
+}
